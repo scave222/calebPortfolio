@@ -99,7 +99,7 @@ p {
 }
 
 .section-btn:hover {
-  background: #e3ae57;
+  background: #0fd8fb;
   border-color: transparent;
   color: #ffffff;
 }
@@ -151,7 +151,7 @@ footer {
 
 #experience,
 #education {
-  background: #e9724c;
+  background: #012245;
 }
 
 .background-image {
@@ -172,7 +172,7 @@ footer {
 }
 
 .color-yellow {
-  color: #e3ae57;
+  color: #0fd8fb;
 }
 
 .bg-yellow {
@@ -196,7 +196,7 @@ html {
 }
 
 a {
-  color: #e3ae57;
+  color: #0fd8fb;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -205,7 +205,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-  color: #e3ae57;
+  color: #0fd8fb;
   outline: none;
 }
 
@@ -257,7 +257,7 @@ a:focus {
   margin-top: -10px;
   margin-left: -10px;
   border-radius: 50%;
-  border: 2px solid #e3ae57;
+  border: 2px solid #0fd8fb;
   border-top-color: #f9f9f9;
   animation: spinner 0.6s linear infinite;
 }
@@ -302,7 +302,7 @@ a:focus {
 
 .custom-navbar .nav li a:hover {
   background: transparent;
-  color: #e3ae57;
+  color: #0fd8fb;
 }
 
 .custom-navbar .navbar-nav > li > a:hover,
@@ -312,7 +312,7 @@ a:focus {
 
 .custom-navbar .nav li.active > a {
   background-color: transparent;
-  color: #e3ae57;
+  color: #0fd8fb;
 }
 
 .custom-navbar .navbar-toggle {
@@ -325,7 +325,7 @@ a:focus {
 }
 
 .custom-navbar .navbar-toggle .icon-bar {
-  background: #e3ae57;
+  background: #0fd8fb;
   border-color: transparent;
 }
 
@@ -449,7 +449,7 @@ a:focus {
 }
 
 #experience small {
-  color: #633;
+  color: #474747;
   font-weight: bold;
 }
 
@@ -458,7 +458,7 @@ a:focus {
 -----------------------------------------*/
 
 #education {
-  background: #f89c46;
+  background: #474747;
 }
 
 #education .education-img {
@@ -475,7 +475,7 @@ a:focus {
 }
 
 #education small {
-  color: #886d1e;
+  color: #081e22;
   font-weight: bold;
 }
 
@@ -516,7 +516,7 @@ a:focus {
 -----------------------------------------*/
 
 #contact {
-  background: #e9724c;
+  background: #012245;
 }
 
 #contact .contact-form,
@@ -549,7 +549,7 @@ a:focus {
 #contact .form-control {
   background: transparent;
   border: none;
-  border-bottom: 1px solid #e3ae57;
+  border-bottom: 1px solid #0fd8fb;
   border-radius: 0px;
   box-shadow: none;
   color: #ffffff;
@@ -627,7 +627,7 @@ footer {
 }
 
 .social-icon li a:hover {
-  background: #e3ae57;
+  background: #0fd8fb;
   border-color: #ffffff;
   color: #ffffff;
   transform: scale(1.1);
